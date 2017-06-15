@@ -82,7 +82,7 @@ class App extends Component {
         return queryString({
             client_id: CLIENT_ID,
             client_secret: CLIENT_SECRET,
-            v: 20170305,
+            v: 20170615,
             ll: `${latitude}, ${longitude}`,
             llAcc: this.state.gpsAccuracy,
             section: lookingFor || this.state.lookingFor || 'food',
