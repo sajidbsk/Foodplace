@@ -8,8 +8,8 @@ import styles from './styles';
 import RecommendationsMap from './RecommendationsMap';
 import { OverlayTopics, BottomTopics } from './Topics';
 
-const CLIENT_ID = '4VMVDF0DJLP4DKSFNW210VFMEL1OJ3P5HAAQJGOC4YFYIOJ2';
-const CLIENT_SECRET = 'ZXA5FEE4GJY4S525PBWUDM22R3FTNTOHKQ0FMJNV0GGBTYBU';
+const CLIENT_ID = 'J5OR1DYJXZI2ACXJKDLEAYJIFZ1WEWW4KQQGGD0T23FHQS3E';
+const CLIENT_SECRET = 'TZ5GZQQNQKZFIZ0RO42H05A510Y1UENHYCEIRBBWZL1LKHWR';
 const FOURSQUARE_ENDPOINT = 'https://api.foursquare.com/v2/venues/explore';
 const API_DEBOUNCE_TIME = 2000;
 
